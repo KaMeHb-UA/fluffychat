@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=FluffyChat
+Exec=webapp-container --local-content-can-access-remote-urls --app-id="fluffychat.krille-chan" $@ www/index.html
+Icon=assets/icon.png
+Terminal=false
+Type=Application
+X-Lomiri-Touch=true

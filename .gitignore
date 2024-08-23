@@ -60,3 +60,7 @@ ios/Runner.ipa
 /macos/out
 .vs
 olm
+
+# Ubuntu Touch related
+ubuntu-touch/.venv
+ubuntu-touch/www
